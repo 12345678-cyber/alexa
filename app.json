@@ -3,9 +3,9 @@
     "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
     "logo": "https://www.mboxdrive.com/2022-01-03-143712309-crop.mp4",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "amazone alexa"],
-    "repository": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
-    "website":   "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
-    "success_url": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
+    "repository": "https://github.com/12345678-cyber/alexa",
+    "website":   "https://github.com/12345678-cyber/alexa",
+    "success_url": "https://github.com/12345678-cyber/alexa",
     "stack": "container",
     "env": {
         "NEUTRO_SESSION": {
